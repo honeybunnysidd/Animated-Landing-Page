@@ -19,4 +19,4 @@
    Email: siddhartharaghuvanshi01@gmail.com
 
 ## Link :
-   url : https://honeybunnysidd.github.io/Slide-bar/](https://honeybunnysidd.github.io/Animated-Landing-Page
+   url : https://honeybunnysidd.github.io/Animated-Landing-Page
